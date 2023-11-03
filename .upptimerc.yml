@@ -9,14 +9,14 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /servie-status
+  baseUrl: /service-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Upptime
   introTitle: "**SkNk Status Page**"
   introMessage: "Check the status of deployed sknk services"
   navbar:
     - title: Status
-      href: /servie-status
+      href: /service-status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
