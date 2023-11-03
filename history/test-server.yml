@@ -1,7 +1,7 @@
 url: https://gently-concise-dogfish.ngrok-free.app/test-server
-status: down
-code: 404
-responseTime: 534
-lastUpdated: 2023-11-03T15:12:11.260Z
+status: up
+code: 200
+responseTime: 2248
+lastUpdated: 2023-11-03T15:25:27.589Z
 startTime: 2023-11-03T14:28:13.822Z
 generator: Upptime <https://github.com/upptime/upptime>
