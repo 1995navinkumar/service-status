@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gently-concise-dogfish.ngrok-free.app.ico",
     "slug": "test-server",
     "status": "up",
-    "uptime": "76.78%",
-    "uptimeDay": "76.78%",
-    "uptimeWeek": "76.78%",
-    "uptimeMonth": "76.78%",
-    "uptimeYear": "76.78%",
-    "time": 2307,
-    "timeDay": 2307,
-    "timeWeek": 2307,
-    "timeMonth": 2307,
-    "timeYear": 2307,
-    "dailyMinutesDown": {
-      "2023-11-03": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2222,
+    "timeDay": 2222,
+    "timeWeek": 2222,
+    "timeMonth": 2222,
+    "timeYear": 2222,
+    "dailyMinutesDown": {}
   }
 ]
