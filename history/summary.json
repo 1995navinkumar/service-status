@@ -4,35 +4,39 @@
     "url": "https://gently-concise-dogfish.ngrok-free.app/test-server",
     "icon": "https://icons.duckduckgo.com/ip3/gently-concise-dogfish.ngrok-free.app.ico",
     "slug": "test-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2912,
-    "timeDay": 824,
-    "timeWeek": 2726,
-    "timeMonth": 3104,
-    "timeYear": 2912,
-    "dailyMinutesDown": {}
+    "time": 2860,
+    "timeDay": 448,
+    "timeWeek": 2394,
+    "timeMonth": 3007,
+    "timeYear": 2860,
+    "dailyMinutesDown": {
+      "2023-12-22": 0
+    }
   },
   {
     "name": "react-starter-vite",
     "url": "https://gently-concise-dogfish.ngrok-free.app/react-starter-vite/",
     "icon": "https://icons.duckduckgo.com/ip3/gently-concise-dogfish.ngrok-free.app.ico",
     "slug": "react-starter-vite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 255,
-    "timeWeek": 278,
-    "timeMonth": 292,
-    "timeYear": 291,
-    "dailyMinutesDown": {}
+    "time": 284,
+    "timeDay": 136,
+    "timeWeek": 245,
+    "timeMonth": 283,
+    "timeYear": 284,
+    "dailyMinutesDown": {
+      "2023-12-22": 0
+    }
   }
 ]
