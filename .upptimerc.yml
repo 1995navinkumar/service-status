@@ -3,10 +3,6 @@ owner: 1995navinkumar # Your GitHub organization or username, where this reposit
 repo: service-status # The name of this repository
 
 sites:
-  - name: test-server
-    url: https://gently-concise-dogfish.ngrok-free.app/test-server
-  - name: react-starter-vite
-    url: https://gently-concise-dogfish.ngrok-free.app/react-starter-vite/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
